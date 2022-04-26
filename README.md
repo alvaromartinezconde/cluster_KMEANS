@@ -1,3 +1,3 @@
-# Number of clusters
+# Data visualitation
 
-> Select number of clusters
+> Print dataset observations
