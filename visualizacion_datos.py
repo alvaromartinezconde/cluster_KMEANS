@@ -2,7 +2,6 @@ import pandas as pd
 from matplotlib import pyplot as plt
 from sklearn.preprocessing import StandardScaler
 
-
 # Cargamos el dataset (en la carpeta data con nombre Clustering)
 
 ruta_fichero = 'inputs/Clustering.csv'
