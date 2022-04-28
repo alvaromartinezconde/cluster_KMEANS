@@ -10,7 +10,6 @@ df = pd.read_csv(ruta_fichero, encoding='utf_8')
 
 
 # Escalar las variables Gol/Sh y npxG/Sh
-# Recomendación: como hacemos en el notebook, crea unas variables (std) y luego escala.
 
 def PreparingData(dt):
 
