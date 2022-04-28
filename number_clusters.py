@@ -39,3 +39,4 @@ plt.xlabel("$k$", fontsize=14)
 plt.ylabel("Silhoutte score", fontsize=14)
 
 plt.show()
+
